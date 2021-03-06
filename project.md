@@ -4,9 +4,10 @@ title: Project Lists B2
 
 # Project Demo B2
 
-## 1. Alokchitro
+##  0. Project Title
 ### Summary:
 [comment]: <> (Write short summary here)
+I have created this project to showcase all the amazing works that the CSE 3200 folks are doing. Just paste the short summary of your project in this doc just like me and I will take care of the rest.
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
@@ -17,4 +18,152 @@ title: Project Lists B2
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
+[Github](https://github.com/CSE3200-Spring2020/CSE3200-Spring2020.github.io)
 
+### Team:
+1. Moumita Choudhury
+2. Nowshin Nawar Arony
+
+
+
+##  1. Alokchitro
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  2. E-Tuitionee
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  3. Shohoz Hisab
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  4. Online Course and Examination Management System
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  5. Boi-wala
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  6. Clothing Thrift Shop
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+
+##  7. Tourism Website
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
+
+### Team:
+[comment]: <> (Provide team memebers name here)
+
+
+
+##  8. MediAssist
+### Summary:
+[comment]: <> (Write short summary here)
+
+
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
