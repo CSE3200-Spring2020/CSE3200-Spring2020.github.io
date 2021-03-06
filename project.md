@@ -1,10 +1,17 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Project Title
 ---
 
-# This is a H1
+# Project Title
 
-[the clickable text](http://xlson.com/)
+## Summary
+[comment]: <> (Write short summary here)
 
-* Bullet lists are also easy to create
-* One more
+### Youtube:
+[comment]: <> (Provide the youtube video link)
+
+https://www.youtube.com/watch?v=GhQdlIFylQ8
+
+### Github Link: 
+[comment]: <> (Provide the youtube video link if any. The github link is optional)
+
