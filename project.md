@@ -16,6 +16,8 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 [See the video](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
+
+
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
 [Github](https://github.com/CSE3200-Spring2020/CSE3200-Spring2020.github.io)
@@ -33,6 +35,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
+
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 
 ### Github Link: 
@@ -52,7 +57,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -72,7 +79,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -90,7 +99,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -108,7 +119,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -126,7 +139,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -145,7 +160,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -163,7 +180,9 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Youtube:
 [comment]: <> (Provide the youtube video link)
+[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
 
+[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
