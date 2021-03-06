@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+As the outcome of the course, students have prepared the following projects:
+
+#Section B2
+1. CSE3200-Spring2020.github.io/project.md
 
 You can use the [editor on GitHub](https://github.com/CSE3200-Spring2020/CSE3200-Spring2020.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
