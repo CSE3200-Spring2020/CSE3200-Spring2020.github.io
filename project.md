@@ -16,8 +16,7 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 [See the video](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GhQdlIFylQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
