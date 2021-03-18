@@ -2,43 +2,15 @@
 title: Project Lists B2
 ---
 
-# Project Demo B2
+# Project Demo A1
 
-##  0. Project Title
+##  1. Book Point
 ### Summary:
 [comment]: <> (Write short summary here)
-I have created this project to showcase all the amazing works that the CSE 3200 folks are doing. Just paste the short summary of your project in this doc just like me and I will take care of the rest.
+Website for both buying and selling books.
 
 ### Youtube:
-[comment]: <> (Provide the youtube video link)
-
-[![Youtube](https://img.youtube.com/vi/GhQdlIFylQ8/0.jpg)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-
-[See the video](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhQdlIFylQ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-[Github](https://github.com/CSE3200-Spring2020/CSE3200-Spring2020.github.io)
-
-### Team:
-1. Moumita Choudhury
-2. Nowshin Nawar Arony
-
-
-
-##  1. Alokchitro
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSXHeC5rYx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
@@ -47,142 +19,32 @@ I have created this project to showcase all the amazing works that the CSE 3200 
 
 ### Team:
 [comment]: <> (Provide team memebers name here)
+170204012	170204011	170204021
 
 
-
-##  2. E-Tuitionee
+##  2. TourBook
 ### Summary:
 [comment]: <> (Write short summary here)
-
+An ASP.net MVC based project which focus on the community of avid travelers , which will help them to communicate each other. 
 
 ### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXjTb3TA-JY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
-
+https://github.com/Samiul-Islam-Niloy/TourBook_V9.git
 
 
 
 ### Team:
 [comment]: <> (Provide team memebers name here)
+1. Samiul Islam Niloy
+2. Al Noman Bin Raihan 
+3. Sakib Rahaman Sumon 
 
 
 
-##  3. Shohoz Hisab
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-
-
-### Team:
-[comment]: <> (Provide team memebers name here)
-
-
-
-##  4. Online Course and Examination Management System
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-
-
-### Team:
-[comment]: <> (Provide team memebers name here)
-
-
-
-##  5. Boi-wala
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-
-
-### Team:
-[comment]: <> (Provide team memebers name here)
-
-
-
-##  6. Clothing Thrift Shop
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-
-
-### Team:
-[comment]: <> (Provide team memebers name here)
-
-
-
-
-##  7. Tourism Website
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
-
-
-### Team:
-[comment]: <> (Provide team memebers name here)
-
-
-
-##  8. MediAssist
-### Summary:
-[comment]: <> (Write short summary here)
-
-
-### Youtube:
-[comment]: <> (Provide the youtube video link)
-[![Youtube](https://img.youtube.com/vi/[your_video_id_here]/0.jpg)](https://www.youtube.com/watch?v=[your_video_id_here])
-
-[See the video](https://www.youtube.com/watch?v=[your_video_id_here])
-
-### Github Link: 
-[comment]: <> (Provide the youtube video link if any. The github link is optional)
+## Instructor:
+1. Nowshin Nawar Arony
+2. Moumita Choudhury
+3. 
