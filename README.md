@@ -6,4 +6,4 @@ In this lab, students have worked in groups to prepare web softwares. As the out
 # [Section A1](https://CSE3200-Spring2020.github.io/project)
 # [Section A2](#)
 # [Section B1](#)
-# [Section B2](https://CSE3200-Spring2020.github.io/B2)
+# [Section B2](https://CSE3200-Spring2020.github.io/project)
