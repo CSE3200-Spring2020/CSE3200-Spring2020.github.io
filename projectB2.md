@@ -29,7 +29,7 @@ We are going to develop a website on Point of Sale System (POS) which will give 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c2wvbCoOESs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Github Link: 
 [comment]: <> (Provide the youtube video link if any. The github link is optional)
-https://github.com/mithilaarman/Shohoz-Hisab
+[Github](https://github.com/mithilaarman/Shohoz-Hisab)
 
 
 ### Team:
